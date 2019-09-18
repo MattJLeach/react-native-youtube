@@ -24,9 +24,6 @@
   "dependencies": {
     "prop-types": "^15.5.0"
   },
-  "peerDependencies": {
-    "react-native": ">=0.60"
-  },
   "devDependencies": {
     "prettier": "^1.18.2"
   }
